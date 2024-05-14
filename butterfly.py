@@ -1,4 +1,4 @@
-<b>Target Pattern -<b>
+Target Pattern -
 *        *
 **      **
 ***    ***
