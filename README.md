@@ -3,18 +3,10 @@ In this repository, you will find various star patterns printed using Python.
 <table>
   <tr>
     <td>
-<p>*        *</p><br>
-<p>**      **</p><br>
-<p>***    ***</p><br>
-<p>****  ****</p><br>
-<p>**********</p><br>
-<p>****  ****</p><br>
-<p>***    ***</p><br>
-<p>**      **</p><br>
-<p>*        *</p><br>
+Butterfly Pattern
     </td>
-    <td>
-      https://github.com/ayanalyser/starPatternsWithPython/blob/main/butterfly.py
+    <td></td>
+      <a href="https://github.com/ayanalyser/starPatternsWithPython/blob/main/butterfly.py">Source</a>
     </td>
   </tr>
 </table>
