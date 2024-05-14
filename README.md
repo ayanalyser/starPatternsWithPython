@@ -9,4 +9,11 @@ Butterfly Pattern
       <a href="https://github.com/ayanalyser/starPatternsWithPython/blob/main/butterfly.py">Source</a>
     </td>
   </tr>
+
+  <tr>
+    <td>Diamond Pattern</td>
+    <td>
+      <a href="https://github.com/ayanalyser/starPatternsWithPython/blob/main/diamond.py">Source</a>
+    </td>
+  </tr>
 </table>
