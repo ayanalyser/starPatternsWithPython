@@ -2,12 +2,12 @@
 In this repository, you will find various star patterns printed using Python.
 <table>
 
-  <th>
-    <td>Patterns</td>
+  <tr>
+    <td><b>Patterns</b></td>
     <td>
-      <td>Sources</td>
+      <td><b>Sources</b></td>
     </td>
-  </th>
+  </tr>
 
   <tr>
     <td>
