@@ -31,7 +31,7 @@ Butterfly Pattern
   </tr>
 
   <tr>
-    <td>Hollow Square</td>
+    <td>Crossed Square</td>
     <td>
       <a target="_blank" href="https://github.com/ayanalyser/starPatternsWithPython/blob/main/crossedSquare.py">Source</a>
     </td>
