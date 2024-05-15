@@ -1,6 +1,14 @@
 # starPatternsWithPython
 In this repository, you will find various star patterns printed using Python.
 <table>
+
+  <th>
+    <td>Patterns</td>
+    <td>
+      <td>Sources</td>
+    </td>
+  </th>
+
   <tr>
     <td>
 Butterfly Pattern
