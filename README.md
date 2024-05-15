@@ -16,4 +16,12 @@ Butterfly Pattern
       <a target="_blank" href="https://github.com/ayanalyser/starPatternsWithPython/blob/main/diamond.py">Source</a>
     </td>
   </tr>
+
+  <tr>
+    <td>Hollow Square</td>
+    <td>
+      <a target="_blank" href="https://github.com/ayanalyser/starPatternsWithPython/blob/main/hollowsquare.py">Source</a>
+    </td>
+  </tr>
+  
 </table>
