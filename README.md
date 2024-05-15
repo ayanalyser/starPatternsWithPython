@@ -4,9 +4,7 @@ In this repository, you will find various star patterns printed using Python.
 
   <tr>
     <td><b>Patterns</b></td>
-    <td>
-      <td><b>Sources</b></td>
-    </td>
+    <td><b>Sources</b></td>
   </tr>
 
   <tr>
